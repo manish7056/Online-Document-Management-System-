@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: red;
+}
+.formsignup{
+    background-color: white;
+    width: 25%;
+    padding: 20px;
+    margin: 34px auto;
+    padding: 35px;
+    border-radius: 8px;
+}
+
+input[Type=submit]{
+    width: 100%;
+    background-color: rgb(0, 157, 255);
+    padding: 8px 0;
+    border: none;
+    color: white;
+    font-size: 20px;
+}
+.div1{
+    margin: 10px 0;
+}
+input{
+    padding: 8px 0;
+    width: 100%;
+}
+level{
+    font-size: 20px;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+
